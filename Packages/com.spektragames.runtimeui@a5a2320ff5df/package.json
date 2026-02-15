@@ -1,0 +1,16 @@
+{
+  "name": "com.spektragames.runtimeui",
+  "version": "1.0.7",
+  "displayName": "Runtime UI",
+  "description": "A Unity package for managing runtime-only UI elements, including loading screens, popups, and notifications with full control via code",
+  "author": {
+    "name": "Spektra Games",
+    "email": "yusuf@spektra.games",
+    "url": "https://spektra.games"
+  },
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.1"
+  },
+  "_fingerprint": "a5a2320ff5dfe1c95267f71da7118d72526facfe"
+}

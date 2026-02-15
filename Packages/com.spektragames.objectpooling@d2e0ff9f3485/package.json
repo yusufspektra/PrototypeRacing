@@ -1,0 +1,16 @@
+{
+  "name": "com.spektragames.objectpooling",
+  "version": "1.0.9",
+  "displayName": "Object Pooling",
+  "description": "Advanced object pooling system",
+  "author": {
+    "name": "Spektra Games",
+    "email": "ocebi@spektra.games",
+    "url": "https://spektra.games"
+  },
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.1"
+  },
+  "_fingerprint": "d2e0ff9f34855b5ac3439302da1fb2c415fd4112"
+}

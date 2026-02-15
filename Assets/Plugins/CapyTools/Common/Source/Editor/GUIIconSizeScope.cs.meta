@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2263ea5eedfa97b4695f99f6e2851c0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Common/Source/Editor/GUIIconSizeScope.cs
+  uploadId: 797272

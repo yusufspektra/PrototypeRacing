@@ -1,0 +1,14 @@
+{
+    "name": "SpektraGames.RuntimeUI.Editor",
+    "rootNamespace": "SpektraGames.RuntimeUI.Editor",
+    "references": ["GUID:784e3518f33c40109d36f89328fc6b76","GUID:a9042e450a7e4f039993b69dad38c610"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "allowUnsafeCode": false
+}

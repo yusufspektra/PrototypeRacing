@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c8c207004b6d1fb41bf6d4fea7708256
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Common/Source/Editor/GUIEnableScope.cs
+  uploadId: 797272

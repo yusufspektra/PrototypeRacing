@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c3e73682596ec349a26b139870058e3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Remo/dll/ThirdParty/Third-Party Notices.txt
+  uploadId: 797272

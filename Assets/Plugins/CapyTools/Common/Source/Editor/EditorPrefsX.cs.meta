@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2226e35a87a4441d9111c78900e39e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Common/Source/Editor/EditorPrefsX.cs
+  uploadId: 797272

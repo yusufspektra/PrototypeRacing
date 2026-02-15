@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78fbf6318c3af886c9e9f2edbbaffa89
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Common/Source/Editor/CapyTools.Common.Editor.asmdef
+  uploadId: 797272

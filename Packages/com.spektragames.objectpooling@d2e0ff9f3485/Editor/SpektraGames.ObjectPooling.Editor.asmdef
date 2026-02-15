@@ -1,0 +1,19 @@
+{
+    "name": "SpektraGames.ObjectPooling.Editor",
+    "rootNamespace": "SpektraGames.ObjectPooling.Editor",
+    "references": [
+        "GUID:fe7495d6ecd343a6b5962d0f4086e003",
+        "GUID:a9042e450a7e4f039993b69dad38c610"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

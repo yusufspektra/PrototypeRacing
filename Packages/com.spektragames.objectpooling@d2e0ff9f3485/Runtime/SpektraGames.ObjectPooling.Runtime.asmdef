@@ -1,0 +1,16 @@
+{
+    "name": "SpektraGames.ObjectPooling.Runtime",
+    "rootNamespace": "SpektraGames.ObjectPooling.Runtime",
+    "references": [
+        "GUID:a9042e450a7e4f039993b69dad38c610"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

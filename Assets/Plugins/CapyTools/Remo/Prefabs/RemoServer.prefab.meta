@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d31ecb3953df00b47a805979294e159f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Remo/Prefabs/RemoServer.prefab
+  uploadId: 797272

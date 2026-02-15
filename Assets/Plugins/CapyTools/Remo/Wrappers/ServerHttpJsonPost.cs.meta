@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05657253c9a28b74890fd2142f081713
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Remo/Wrappers/ServerHttpJsonPost.cs
+  uploadId: 797272

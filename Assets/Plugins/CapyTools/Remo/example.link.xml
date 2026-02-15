@@ -1,0 +1,31 @@
+<!-- Change the name from example.link.xml to link.xml -->
+<!-- This file tells Unity Linker to preserve common types, property or fields that would get stripped in a build -->
+
+<linker>
+
+  <!-- Preserve CapyTools.Common types -->
+  <assembly fullname="CapyTools.Common" preserve="all" ignoreIfMissing="1" />
+  
+  <!-- Preserve CapyTools.RemoteEditor types -->
+  <assembly fullname="CapyTools.RemoteEditor" preserve="all" ignoreIfMissing="1" />
+
+  <!-- Preserve CapyTools.RemoteEditor.Server types -->
+  <assembly fullname="CapyTools.RemoteEditor.Server" preserve="all" ignoreIfMissing="1" />
+
+  <!-- Preserve CapyTools.RemoteEditor.Serialization types -->
+  <assembly fullname="CapyTools.RemoteEditor.Serialization" preserve="all" ignoreIfMissing="1" />
+  <assembly fullname="CapyTools.RemoteEditor.Serialization.Resolvers" preserve="all" ignoreIfMissing="1"/>
+  
+   
+  <!-- Preserve Common UnityEngine base types -->
+  <assembly fullname="UnityEngine" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.CoreModule" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.PhysicsModule" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.Rendering" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.Rendering.Universal" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.Rendering.HighDefinition" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.AnimationModule" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="UnityEngine.Video" preserve="all" ignoreIfMissing="1"/>
+
+
+</linker>

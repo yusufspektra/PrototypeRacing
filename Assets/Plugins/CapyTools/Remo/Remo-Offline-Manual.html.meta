@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56bac4f378973d948b082c72169f479e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320744
+  packageName: Remo - Remote Runtime Editor
+  packageVersion: 1.1.1
+  assetPath: Assets/Plugins/CapyTools/Remo/Remo-Offline-Manual.html
+  uploadId: 797272
