@@ -20,3 +20,4 @@ MonoBehaviour:
   - MainCamera
   - Player
   - GameController
+  - RuntimeInspector
